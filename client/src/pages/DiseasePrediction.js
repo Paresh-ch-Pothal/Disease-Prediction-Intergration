@@ -7,7 +7,7 @@ const DiseasePrediction = () => {
       <div style={{display: 'flex', alignItems: "center",height: '90vh',fontFamily: "poppins",padding: "30px",flexDirection: "column"}}>
         <div style={{width: "70%"}}>
             <h1 style={{textAlign: "center"}}>Disease Prediction System</h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum eius commodi ullam rerum nam sapiente omnis harum iure esse voluptates tempora recusandae quae aut consequatur atque, vitae, nemo blanditiis, maiores impedit iusto non pariatur error nesciunt libero? Odit harum sunt dicta assumenda quasi, pariatur commodi?</p>
+            <p>A disease prediction system uses data such as medical history, lifestyle, and genetics to predict the likelihood of a person developing a disease. By analyzing patterns in patient data, it can help identify risks early, allowing for preventive measures and timely treatments. These systems use machine learning algorithms to make accurate predictions, enabling healthcare providers to offer better care and improve patient outcomes.</p>
         </div>
         <div style={{width: "70%"}}>
             <MultiValue/>
